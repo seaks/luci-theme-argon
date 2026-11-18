@@ -42,11 +42,11 @@ msgstr "下次打开登录页时生效。"
 
 #: root/usr/share/luci/menu.d/luci-app-argon-config.json:3
 msgid "Argon Config"
-msgstr "Argon 主题设置"
+msgstr "主题设置"
 
 #: htdocs/luci-static/resources/view/argon-config.js:113
 msgid "Argon theme configuration"
-msgstr "Argon 主题设置"
+msgstr "主题设置"
 
 #: htdocs/luci-static/resources/view/argon-config.js:209
 msgid "Automatic"
